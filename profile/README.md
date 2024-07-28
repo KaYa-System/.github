@@ -47,10 +47,4 @@ Tél : (225) 07 07 07 62 77
 
 ## Licence
 
-[Insérer les informations de licence ici]
-
----
-
-## Licence
-
 Ce projet est sous licence Apache 2.0. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
